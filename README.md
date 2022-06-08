@@ -5,5 +5,5 @@
 - 💬 Ask me about React and Flutter
 - ⚡ Fun fact I'm good with people
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=abenezer121&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abenezer121&theme=radical)
 
